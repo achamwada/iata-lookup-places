@@ -1,0 +1,10 @@
+# Go build artefacts
+bin/
+dist/
+*.exe
+*.test
+*.out
+
+# Data
+data/
+!data/.gitkeep
