@@ -6,5 +6,5 @@ dist/
 *.out
 
 # Data
-data/
-!data/.gitkeep
+data/airports-*.csv
+!data/airports-latest.csv

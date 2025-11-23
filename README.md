@@ -1,7 +1,7 @@
 # iata-lookup-places
 
 A tiny Go helper library + tool for working with IATA airport codes using
-data from [OurAirports](https://ourairports.com/).
+data from [OurAirports](https://ourairports.com/)
 
 - Downloads `airports.csv` from OurAirports.
 - Keeps a timestamped copy **and** a stable `airports-latest.csv`.
@@ -12,4 +12,4 @@ data from [OurAirports](https://ourairports.com/).
 ## Installation
 
 ```bash
-go get github.com/yourname/iata-lookup-places
+go get github.com/achamwada/iata-lookup-places
